@@ -1,0 +1,22 @@
+.bg-img1 { 
+    background-color: #000;
+    background-size: cover;
+    background-image: url('images/slide1.jpg');
+}
+
+.bg-img1 { 
+    background-color: #000;
+    background-size: cover;
+    background-image: url('images/slide2.jpg');
+}
+
+.bg-img1 { 
+    background-color: #000;
+    background-size: cover;
+    background-image: url('images/slide3.jpg');
+}
+
+/* section.carousel { 
+    height: 500px;
+    overflow: hidden;
+} */
